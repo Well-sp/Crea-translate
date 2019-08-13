@@ -1,0 +1,2 @@
+# Crea translate
+ перевод игры
